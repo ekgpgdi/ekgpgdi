@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/033e45e4-d590-4088-8002-a5e43c5bcf1e)
+![Image](https://github.com/user-attachments/assets/ada32365-dfbc-417f-b936-897581e6f87f)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
