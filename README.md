@@ -31,9 +31,6 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1PgFC_OOwQckczr7unTiY1C0Ev-MUAe9W/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:dahae80912@gmail.com">
     <img
       src="https://img.shields.io/badge/dahae80912@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
