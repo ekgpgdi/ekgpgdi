@@ -1,4 +1,8 @@
-![Image](https://github.com/user-attachments/assets/ada32365-dfbc-417f-b936-897581e6f87f)
+
+<p align="center">
+<img width = "50%" align="center" src = "https://github.com/user-attachments/assets/ada32365-dfbc-417f-b936-897581e6f87f"/>
+</p>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
